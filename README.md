@@ -1,3 +1,21 @@
+## Course Project 1 Solution
+<br>
+The Solution contains 9 files:
+<ol>
+<li><b>loadData.R</b>  : Code to download the data, filter and format it as required</li>
+<li><b>plot1.R </b>    : code file that creates the plot file plot1.png</li>
+<li><b>plot2.R </b>    : code file that creates the plot file plot2.png</li>
+<li><b>plot3.R </b>    : code file that creates the plot file plot3.png</li>
+<li><b>plot4.R </b>    : code file that creates the plot file plot4.png</li>
+<li><b>plot1.png</b>   : png file showing the Plot 1</li>
+<li><b>plot2.png</b>   : png file showing the Plot 2</li>
+<li><b>plot3.png</b>   : png file showing the Plot 3</li>
+<li><b>plot4.png</b>   : png file showing the Plot 4</li>
+</ol>
+<br>
+<b>Note:</b> The R files save the PNG files to the working directory without showing the plots on RStudio's Plots pane.
+<br><br><br>
+
 ## Introduction
 
 This assignment uses data from
